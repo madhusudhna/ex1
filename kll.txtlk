@@ -1,0 +1,8 @@
+IPADDR=192.168.1.110
+NETMASK=255.255.255.0
+GATEWAY=192.168.1.1
+
+192.168.1.110 contoraller-node1-madhu.k contoraller-node1
+192.168.1.109 compute-node1-madhu.k     compute-node1
+c84206efa7d6ac7561ae 
+
